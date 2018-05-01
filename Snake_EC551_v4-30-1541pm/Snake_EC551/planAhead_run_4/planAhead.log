@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# PlanAhead v14.2 (64-bit)
+# Build 194362 by xbuild on Fri Jul 20 18:52:11 MDT 2012
+# Start of session at: Mon Mar 26 20:05:26 2018
+# Process ID: 2804
+# Log file: X:/Desktop/Snake_EC551/Snake_EC551/planAhead_run_4/planAhead.log
+# Journal file: X:/Desktop/Snake_EC551/Snake_EC551/planAhead_run_4/planAhead.jou
+#-----------------------------------------------------------
+INFO: [Common 17-78] Attempting to get a license: PlanAhead
+INFO: [Common 17-290] Got license for PlanAhead
+INFO: [Common 17-86] Your PlanAhead license expires in -206 day(s)
+INFO: [Device 21-36] Loading parts and site information from C:/Xilinx/14.2/ISE_DS/PlanAhead/data/parts/arch.xml
+Parsing RTL primitives file [C:/Xilinx/14.2/ISE_DS/PlanAhead/data/parts/xilinx/rtl/prims/rtl_prims.xml]
+Finished parsing RTL primitives file [C:/Xilinx/14.2/ISE_DS/PlanAhead/data/parts/xilinx/rtl/prims/rtl_prims.xml]
+start_gui
+source X:/Desktop/Snake_EC551/Snake_EC551/pa.fromHdl.tcl
+# create_project -name Snake_EC551 -dir "X:/Desktop/Snake_EC551/Snake_EC551/planAhead_run_4" -part xc6slx16csg324-3
+ERROR: [Common 17-53] User Exception: Project already exists on disk, please use '-force' option to overwrite: 
+     X:/Desktop/Snake_EC551/Snake_EC551/planAhead_run_4/Snake_EC551.ppr
+     X:/Desktop/Snake_EC551/Snake_EC551/planAhead_run_4/Snake_EC551.data
+exit
+INFO: [Common 17-206] Exiting PlanAhead...
+INFO: [Common 17-83] Releasing license: PlanAhead

@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=X:\Desktop\snakex\Snake_EC551_v4-27-1541pm\Snake_EC551\Snake_TOP.ncd
+OUTFILE=X:\Desktop\snakex\Snake_EC551_v4-27-1541pm\Snake_EC551\Snake_TOP.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=X:\Desktop\snakex\Snake_EC551_v4-27-1541pm\Snake_EC551
+LICENSE=WebPack
+USER_INFO=211078688_0_0_150

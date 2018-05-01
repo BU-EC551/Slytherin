@@ -1,0 +1,8 @@
+verilog work "VGA_clk_divider.v"
+verilog work "VGA.v"
+verilog work "Snake_clk_divider.v"
+verilog work "LED_clk_divider.v"
+verilog work "../../BinaryTo7seg/Example.v"
+verilog work "Snake_TOP.v"
+verilog work "TOP_tb.v"
+verilog work "C:/Xilinx/14.2/ISE_DS/ISE//verilog/src/glbl.v"

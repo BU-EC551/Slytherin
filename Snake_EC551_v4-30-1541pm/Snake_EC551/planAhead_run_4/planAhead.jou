@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# PlanAhead v14.2 (64-bit)
+# Build 194362 by xbuild on Fri Jul 20 18:52:11 MDT 2012
+# Start of session at: Mon Mar 26 20:05:26 2018
+# Process ID: 2804
+# Log file: X:/Desktop/Snake_EC551/Snake_EC551/planAhead_run_4/planAhead.log
+# Journal file: X:/Desktop/Snake_EC551/Snake_EC551/planAhead_run_4/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source X:/Desktop/Snake_EC551/Snake_EC551/pa.fromHdl.tcl

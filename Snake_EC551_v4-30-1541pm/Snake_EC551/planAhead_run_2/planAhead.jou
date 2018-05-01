@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# PlanAhead v14.2 (64-bit)
+# Build 194362 by xbuild on Fri Jul 20 18:52:11 MDT 2012
+# Start of session at: Mon Mar 26 18:57:01 2018
+# Process ID: 1232
+# Log file: X:/Desktop/Snake_EC551/Snake_EC551/planAhead_run_2/planAhead.log
+# Journal file: X:/Desktop/Snake_EC551/Snake_EC551/planAhead_run_2/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source X:/Desktop/Snake_EC551/Snake_EC551/pa.fromHdl.tcl
+startgroup
+set_property package_pin U7 [get_ports R0]
+endgroup
+startgroup
+set_property package_pin V7 [get_ports R1]
+endgroup
+startgroup
+set_property package_pin N7 [get_ports R2]
+endgroup
+save_design

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "X:/Desktop/Snake_EC551/Snake_EC551/TOP_tb_isim_beh.exe" -prj "X:/Desktop/Snake_EC551/Snake_EC551/TOP_tb_beh.prj" "work.TOP_tb" "work.glbl" 

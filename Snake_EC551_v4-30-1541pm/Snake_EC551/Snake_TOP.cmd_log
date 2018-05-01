@@ -1,0 +1,783 @@
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551-4-25-1528pm/Snake_EC551/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551-4-25-1528pm/Snake_EC551/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Advanced Gluttonous Snake/Snake_EC551_v4-27-1422pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Advanced Gluttonous Snake/Snake_EC551_v4-27-1422pm/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 "Snake_TOP.ngc" Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551_v4-27-1520pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551_v4-27-1520pm/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.syr" 
+xst -intstyle ise -ifn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 
+xst -intstyle ise -ifn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.xst" -ofn "X:/Desktop/snakex/Snake_EC551_v4-27-1541pm/Snake_EC551/Snake_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Snake_TOP.ucf -p xc6slx16-csg324-3 Snake_TOP.ngc Snake_TOP.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o Snake_TOP_map.ncd Snake_TOP.ngd Snake_TOP.pcf 
+par -w -intstyle ise -ol high -mt off Snake_TOP_map.ncd Snake_TOP.ncd Snake_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml Snake_TOP.twx Snake_TOP.ncd -o Snake_TOP.twr Snake_TOP.pcf -ucf Snake_TOP.ucf 
+bitgen -intstyle ise -f Snake_TOP.ut Snake_TOP.ncd 

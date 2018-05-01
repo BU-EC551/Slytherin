@@ -1,0 +1,58 @@
+
+
+NET "clk" LOC = V10;
+NET "VS_L" LOC = P7;
+NET "HS_L" LOC = N6;
+
+
+
+NET "rst" LOC = B8;
+#NET "dragon_right" LOC = D9;
+#NET "dragon_up" LOC = A8;
+#NET "dragon_left" LOC = C4;
+#NET "dragon_down" LOC = C9;
+
+
+NET "R0" LOC = U7;
+NET "R1" LOC = V7;
+NET "R2" LOC = N7;
+
+NET "G0" LOC = P8;
+NET "G1" LOC = T6;
+NET "G2" LOC = V6;
+
+NET "B0" LOC = R7;
+NET "B1" LOC = T7;
+
+
+# PlanAhead Generated physical constraints 
+
+NET "seg_L[0]" LOC = M13;
+NET "seg_L[1]" LOC = L14;
+NET "seg_L[2]" LOC = N14;
+NET "seg_L[3]" LOC = M14;
+NET "seg_L[4]" LOC = U18;
+NET "seg_L[5]" LOC = U17;
+NET "seg_L[6]" LOC = T18;
+NET "seg_L[7]" LOC = T17;
+NET "s_L[0]" LOC = P17;
+NET "s_L[1]" LOC = P18;
+NET "s_L[2]" LOC = N15;
+NET "s_L[3]" LOC = N16;
+NET "switch" LOC = T10;
+
+NET "led[0]" LOC = U16;
+NET "led[1]" LOC = V16;
+NET "led[2]" LOC = U15;
+NET "led[3]" LOC = V15;
+NET "led[4]" LOC = M11;
+NET "led[5]" LOC = N11;
+NET "led[6]" LOC = R11;
+NET "led[7]" LOC = T11;
+NET "CLK" LOC = L12;
+NET "data" LOC = J13;
+
+# PlanAhead Generated IO constraints 
+
+NET "CLK" PULLUP;
+NET "data" PULLUP;

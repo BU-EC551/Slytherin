@@ -1,0 +1,33 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "X:/Desktop/Snake_EC551/Snake_EC551/TOP_tb_isim_beh.exe" -prj "X:/Desktop/Snake_EC551/Snake_EC551/TOP_tb_beh.prj" "work.TOP_tb" "work.glbl" 
+ISim P.28xd (signature 0xa0883be4)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "X:/Desktop/Snake_EC551/Snake_EC551/VGA_clk_divider.v" into library work
+Analyzing Verilog file "X:/Desktop/Snake_EC551/Snake_EC551/VGA.v" into library work
+Analyzing Verilog file "X:/Desktop/Snake_EC551/Snake_EC551/Snake_clk_divider.v" into library work
+Analyzing Verilog file "X:/Desktop/Snake_EC551/Snake_EC551/LED_clk_divider.v" into library work
+Analyzing Verilog file "X:/Desktop/Snake_EC551/Snake_EC551/../../BinaryTo7seg/Example.v" into library work
+Analyzing Verilog file "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.v" into library work
+Analyzing Verilog file "X:/Desktop/Snake_EC551/Snake_EC551/TOP_tb.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.2/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module VGA_clk_divider
+Compiling module VGA
+Compiling module Snake_clk_divider
+Compiling module BCD
+Compiling module MUX_4_to_1
+Compiling module SevenSegment
+Compiling module Fresher
+Compiling module BinaryTo7seg
+Compiling module LED_clk_divider
+Compiling module Snake_TOP
+Compiling module TOP_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 12 Verilog Units
+Built simulation executable X:/Desktop/Snake_EC551/Snake_EC551/TOP_tb_isim_beh.exe
+Fuse Memory Usage: 32720 KB
+Fuse CPU Usage: 685 ms

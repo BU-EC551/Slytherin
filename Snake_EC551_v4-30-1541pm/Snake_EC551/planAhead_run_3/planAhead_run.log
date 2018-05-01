@@ -1,0 +1,104 @@
+
+****** PlanAhead v14.2 (64-bit)
+  **** Build 194362 by xbuild on Fri Jul 20 18:52:11 MDT 2012
+    ** Copyright 1986-1999, 2001-2012 Xilinx, Inc. All Rights Reserved.
+
+INFO: [Common 17-78] Attempting to get a license: PlanAhead
+INFO: [Common 17-290] Got license for PlanAhead
+INFO: [Common 17-86] Your PlanAhead license expires in -206 day(s)
+INFO: [Device 21-36] Loading parts and site information from C:/Xilinx/14.2/ISE_DS/PlanAhead/data/parts/arch.xml
+Parsing RTL primitives file [C:/Xilinx/14.2/ISE_DS/PlanAhead/data/parts/xilinx/rtl/prims/rtl_prims.xml]
+Finished parsing RTL primitives file [C:/Xilinx/14.2/ISE_DS/PlanAhead/data/parts/xilinx/rtl/prims/rtl_prims.xml]
+start_gui
+source X:/Desktop/Snake_EC551/Snake_EC551/pa.fromHdl.tcl
+# create_project -name Snake_EC551 -dir "X:/Desktop/Snake_EC551/Snake_EC551/planAhead_run_4" -part xc6slx16csg324-3
+Parsing template File [C:/Xilinx/14.2/ISE_DS/ISE/data/projnav/templates/verilog.xml].
+Finished parsing template File [C:/Xilinx/14.2/ISE_DS/ISE/data/projnav/templates/verilog.xml].
+Parsing template File [C:/Xilinx/14.2/ISE_DS/ISE/data/projnav/templates/vhdl.xml].
+Finished parsing template File [C:/Xilinx/14.2/ISE_DS/ISE/data/projnav/templates/vhdl.xml].
+Parsing template File [C:/Xilinx/14.2/ISE_DS/ISE/data/projnav/templates/ucf.xml].
+Finished parsing template File [C:/Xilinx/14.2/ISE_DS/ISE/data/projnav/templates/ucf.xml].
+# set_param project.pinAheadLayout yes
+# set srcset [get_property srcset [current_run -impl]]
+# set_property target_constrs_file "Snake_TOP.ucf" [current_fileset -constrset]
+Adding file 'X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.ucf' to fileset 'constrs_1'
+# set hdlfile [add_files [list {VGA_clk_divider.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {VGA.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {Snake_clk_divider.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {LED_clk_divider.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {../../BinaryTo7seg/Example.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set hdlfile [add_files [list {Snake_TOP.v}]]
+# set_property file_type Verilog $hdlfile
+# set_property library work $hdlfile
+# set_property top Snake_TOP $srcset
+# add_files [list {Snake_TOP.ucf}] -fileset [get_property constrset [current_run]]
+# open_rtl_design -part xc6slx16csg324-3
+Using Verific elaboration
+Parsing VHDL file "C:/Xilinx/14.2/ISE_DS/PlanAhead/data/parts/xilinx/rtl/lib/synplify/synattr.vhd" into library synplify
+Analyzing Verilog file "X:/Desktop/Snake_EC551/Snake_EC551/VGA_clk_divider.v" into library work
+Analyzing Verilog file "X:/Desktop/Snake_EC551/Snake_EC551/VGA.v" into library work
+Analyzing Verilog file "X:/Desktop/Snake_EC551/Snake_EC551/Snake_clk_divider.v" into library work
+Analyzing Verilog file "X:/Desktop/Snake_EC551/Snake_EC551/LED_clk_divider.v" into library work
+Analyzing Verilog file "X:/Desktop/BinaryTo7seg/Example.v" into library work
+Analyzing Verilog file "X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.v" into library work
+Loading clock regions from C:/Xilinx/14.2/ISE_DS/PlanAhead/data\parts/xilinx/spartan6/spartan6lx/xc6slx16/ClockRegion.xml
+Loading clock buffers from C:/Xilinx/14.2/ISE_DS/PlanAhead/data\parts/xilinx/spartan6/spartan6lx/xc6slx16/ClockBuffers.xml
+Loading package pin functions from C:/Xilinx/14.2/ISE_DS/PlanAhead/data\parts/xilinx/spartan6/PinFunctions.xml...
+Loading package from C:/Xilinx/14.2/ISE_DS/PlanAhead/data\parts/xilinx/spartan6/spartan6lx/xc6slx16/csg324/Package.xml
+Loading io standards from C:/Xilinx/14.2/ISE_DS/PlanAhead/data\./parts/xilinx/spartan6/IOStandards.xml
+Loading device configuration modes from C:/Xilinx/14.2/ISE_DS/PlanAhead/data\parts/xilinx/spartan6/ConfigModes.xml
+Loading list of drcs for the architecture : C:/Xilinx/14.2/ISE_DS/PlanAhead/data\./parts/xilinx/spartan6/drc.xml
+Parsing UCF File [X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.ucf]
+Finished Parsing UCF File [X:/Desktop/Snake_EC551/Snake_EC551/Snake_TOP.ucf]
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+Phase 0 | Netlist Checksum: 6fe2c2bf
+open_rtl_design: Time (s): elapsed = 00:00:06 . Memory (MB): peak = 572.465 ; gain = 168.246
+startgroup
+set_property package_pin M13 [get_ports {seg_L[0]}]
+endgroup
+startgroup
+set_property package_pin L14 [get_ports {seg_L[1]}]
+endgroup
+startgroup
+set_property package_pin N14 [get_ports {seg_L[2]}]
+endgroup
+startgroup
+set_property package_pin M14 [get_ports {seg_L[3]}]
+endgroup
+startgroup
+set_property package_pin U18 [get_ports {seg_L[4]}]
+endgroup
+startgroup
+set_property package_pin U17 [get_ports {seg_L[5]}]
+endgroup
+startgroup
+set_property package_pin T18 [get_ports {seg_L[6]}]
+endgroup
+startgroup
+set_property package_pin T17 [get_ports {seg_L[7]}]
+endgroup
+startgroup
+set_property package_pin P17 [get_ports {s_L[0]}]
+endgroup
+startgroup
+set_property package_pin P18 [get_ports {s_L[1]}]
+endgroup
+startgroup
+set_property package_pin N15 [get_ports {s_L[2]}]
+endgroup
+startgroup
+set_property package_pin N16 [get_ports {s_L[3]}]
+endgroup
+save_design
